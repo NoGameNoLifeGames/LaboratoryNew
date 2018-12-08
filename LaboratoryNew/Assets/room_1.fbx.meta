@@ -1,9 +1,7 @@
 fileFormatVersion: 2
 guid: adfbacaaa4dddc245a466daa0782da20
-timeCreated: 1544291266
-licenseType: Free
 ModelImporter:
-  serializedVersion: 19
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: group
     100002: group1
@@ -365,10 +363,228 @@ ModelImporter:
     4300090: pasted__Walker_04
     4300092: pasted__UltrasoundTable_01_MeshPart0
     4300094: pasted__UltrasoundTable_01_MeshPart1
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 0a61ca3bbe6b972498f1adeb7559ccc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 101d713231a31f24985a31013f941bfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Default
+    second: {fileID: 2100000, guid: c46e9c3852f1f8e429900dae65d8907b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Default1
+    second: {fileID: 2100000, guid: 1f4dd923a66ac744e8e5d22fa1ec0cfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Default2
+    second: {fileID: 2100000, guid: 0bda6590c26b23645be0acef1a1205ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__canvas
+    second: {fileID: 2100000, guid: 05aa57a48acb4dc46884b40d371699dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__chrome
+    second: {fileID: 2100000, guid: f8257766e8c984645b66752e4da73f6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__chrome light
+    second: {fileID: 2100000, guid: 6994d0f99c1194743a0f5f3d18c3ba96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__chrome1
+    second: {fileID: 2100000, guid: ee5dff1367fb43b4c8d2e499d0e99147, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__chrome10
+    second: {fileID: 2100000, guid: 557f63c2285f1bd4e9545942d7c9183c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__chrome12
+    second: {fileID: 2100000, guid: 604390854480a97468566197fe84fcfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__chrome13
+    second: {fileID: 2100000, guid: 1f4e9198f6c85b04695aadd7ece24986, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__chrome16
+    second: {fileID: 2100000, guid: e55b73e16c9628242953b41813112224, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__chrome2
+    second: {fileID: 2100000, guid: f574b6dd14ebea7459be852d0d6a3221, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__chrome3
+    second: {fileID: 2100000, guid: ea41ad55fdcefca43b44dec11547e689, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__chrome7
+    second: {fileID: 2100000, guid: 77306504d6706df46bbb1ab72906ea87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__chrome8
+    second: {fileID: 2100000, guid: 1138171c129882941823e32ee86b8d06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__light
+    second: {fileID: 2100000, guid: 8b6b9d1d3bce1b94d92645c6866cf329, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__light1
+    second: {fileID: 2100000, guid: 7391cc9fafc917743b97662c700bf7ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__metal
+    second: {fileID: 2100000, guid: 2926b2f1a32af3b488af2f141f8d606c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__metal1
+    second: {fileID: 2100000, guid: 3881b3a08a090174a9dbc2e09b2045f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__paint
+    second: {fileID: 2100000, guid: 418b1939fb9a1264d8f59e35c0766292, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__paint4
+    second: {fileID: 2100000, guid: 89ad162c51f1282408a35eec7f06188d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__plastic
+    second: {fileID: 2100000, guid: 6754e28d49237284e94842c5fb8dd18d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__plastic1
+    second: {fileID: 2100000, guid: 05172e3ba6a6cf1429953ba726d8dc0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__plastic2
+    second: {fileID: 2100000, guid: 5986bd2550e665d4194cb5d9ce78d618, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__plastic3
+    second: {fileID: 2100000, guid: 72aa2cfbd2e92ad4fadc1dda0d89eec4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__plastic7
+    second: {fileID: 2100000, guid: 696f9694759a2584f8ff282211891cde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__plastic9
+    second: {fileID: 2100000, guid: 41faeedfc3f311748a70663996f6c748, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__rubber
+    second: {fileID: 2100000, guid: ccce2f68fe4f26e40975bb030c99a95e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__rubber1
+    second: {fileID: 2100000, guid: af8d6e1a3ac9636468a13c2dfa256f60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__rubber11
+    second: {fileID: 2100000, guid: 9f3377cae4cf37a41b747b2a86b97909, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__rubber2
+    second: {fileID: 2100000, guid: a3e57bae8e8373d46923f29d3b653647, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__rubber3
+    second: {fileID: 2100000, guid: e055f969bd160ff4ebcced14fd5e77cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__rubber8
+    second: {fileID: 2100000, guid: 9f642196b481a0e4c890a7837ae143c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__rubber9
+    second: {fileID: 2100000, guid: a0d8d5d10a942c64da5a0641c00dcfd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__tire
+    second: {fileID: 2100000, guid: 20acf714f58129544afa273da3968d0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__tire orange
+    second: {fileID: 2100000, guid: a80ed9baf527b60408745bf6f2542c0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__top1
+    second: {fileID: 2100000, guid: cc859dcc0f1423347957339d4c87ae28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__wheel
+    second: {fileID: 2100000, guid: abdadd2ad5d3e24498b1296cf0c35d3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__wheel small
+    second: {fileID: 2100000, guid: 6896a1a2fba466645a2f49f69891c383, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__wheel2
+    second: {fileID: 2100000, guid: d2db2cde82135794ba28f643f2c9b8ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__wheel3
+    second: {fileID: 2100000, guid: 66c6d6ad2446bc54a9bd5cc64e05591f, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -381,12 +597,15 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -394,22 +613,30 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+    normalCalculationMode: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
@@ -424,7 +651,6 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
