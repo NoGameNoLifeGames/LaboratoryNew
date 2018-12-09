@@ -5,11 +5,13 @@ public class Controller : MonoBehaviour {
     Animator animator;
     Vector3 moveDirection; 
     Rigidbody rb; 
+	AudioSource aud;
 
     void Start() 
     { 
         rb = GetComponent<Rigidbody>(); 
         animator = GetComponent<Animator>();
+		aud = GetComponent<AudioSource>();
     }
 
     void Update()
@@ -26,11 +28,18 @@ public class Controller : MonoBehaviour {
         else if (Input.GetKey(KeyCode.W))
         {		 
             float hAxis = Input.GetAxis("Horizontal"); 
-            float vAxis = Input.GetAxis("Vertical"); 
-
+            float vAxis = Input.GetAxis("Vertical");  
             Vector3 movement = new Vector3(hAxis, 0f, vAxis); 
             rb.position += movement * moveSpeed * Time.deltaTime; 
+			if(vAxis != 0)
+			{
             animator.SetBool("Walking", true);
+			}
+			else
+			{
+               animator.SetBool("Walking", false);
+			}
+			
 		}
     }
 }

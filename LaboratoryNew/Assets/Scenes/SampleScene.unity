@@ -653,12 +653,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7ac928e76ae9d44f816bdce592a0a66, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  axes: 1
-  minimumVert: -30
-  maximumVert: 30
-  sensHorizontal: 10
-  sensVertical: 10
-  _rotationX: 0
 --- !u!1 &307230172
 GameObject:
   m_ObjectHideFlags: 0
@@ -1580,7 +1574,7 @@ Animator:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1188049097}
   m_Enabled: 1
-  m_Avatar: {fileID: 0}
+  m_Avatar: {fileID: 9000000, guid: 4c5e5c0d455eedc498e5e216e82ad0f1, type: 3}
   m_Controller: {fileID: 9100000, guid: e30f2f508dad6894b9f60f7f798f3b61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
@@ -1672,8 +1666,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 1
+  m_audioClip: {fileID: 8300000, guid: 42e65e088b3f4374e851b8dbd38f3df9, type: 3}
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
